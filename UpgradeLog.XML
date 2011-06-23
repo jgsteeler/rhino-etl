@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Rhino.Etl">
+</Property><Property Name="Solution File" Value="C:\solutions\code\rhino-etl\Rhino.Etl.sln">
+</Property><Property Name="Date" Value="Tuesday, June 21, 2011">
+</Property><Property Name="Time" Value="13:09 PM">
+</Property></Properties><Event ErrorLevel="0" Project="Rhino.Etl.Core" Source="Rhino.Etl.Core\Rhino.Etl.Core.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Rhino.Etl.Core" Source="Rhino.Etl.Core\Rhino.Etl.Core.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Tests" Source="Rhino.Etl.Tests\Rhino.Etl.Tests.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Rhino.Etl.Tests" Source="Rhino.Etl.Tests\Rhino.Etl.Tests.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Dsl" Source="Rhino.Etl.Dsl\Rhino.Etl.Dsl.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Rhino.Etl.Dsl" Source="Rhino.Etl.Dsl\Rhino.Etl.Dsl.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Cmd" Source="Rhino.Etl.Cmd\Rhino.Etl.Cmd.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Rhino.Etl.Cmd" Source="Rhino.Etl.Cmd\Rhino.Etl.Cmd.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Rhino.Etl.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Rhino.Etl.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Core" Source="Rhino.Etl.Core\Rhino.Etl.Core.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Tests" Source="Rhino.Etl.Tests\Rhino.Etl.Tests.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Dsl" Source="Rhino.Etl.Dsl\Rhino.Etl.Dsl.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="Rhino.Etl.Cmd" Source="Rhino.Etl.Cmd\Rhino.Etl.Cmd.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
